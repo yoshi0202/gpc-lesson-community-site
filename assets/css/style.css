@@ -1,3 +1,7 @@
 /* body .navbar-brand {
   font-family: "Stick"
 } */
+
+.container img {
+  width: 100%;
+}
